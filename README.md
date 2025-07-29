@@ -6,7 +6,7 @@
 
 ## Información del Alumno
 
-**Nombre y Apellido:** [Escribir aquí tu nombre y apellido]
+**Nombre y Apellido:** Maximo Mura
 
 **Curso:** [Escribir aquí tu curso]
 
